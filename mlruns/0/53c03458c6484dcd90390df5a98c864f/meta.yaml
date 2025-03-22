@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TORO%20ILIACE/ML_OPS/mlruns/0/53c03458c6484dcd90390df5a98c864f/artifacts
+end_time: 1742657851909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c03458c6484dcd90390df5a98c864f
+run_name: prediction_run
+run_uuid: 53c03458c6484dcd90390df5a98c864f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742657851845
+status: 3
+tags: []
+user_id: TORO ILIACE
